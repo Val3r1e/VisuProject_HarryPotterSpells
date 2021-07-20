@@ -1,6 +1,7 @@
 ***
+## [Find the visualization here](https://graunarmin.github.io/VisuProject_HarryPotterSpells/)
 
-## By Johanna Sacher and Valerie Lemuth
+### By Johanna Sacher and Valerie Lemuth
 
 ***
 ## Content
